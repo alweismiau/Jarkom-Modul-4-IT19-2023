@@ -7,7 +7,7 @@
 ![](https://media.discordapp.net/attachments/1025213238763327683/1181175844710924378/Screenshot_2023-12-04_170901.png?ex=65801aba&is=656da5ba&hm=1b67e15c4987f74b6e9e464994af16a7be2687c168ad82900c102d6555ee1bb8&=&format=webp&quality=lossless&width=1060&height=775)
 
 # Rute
-![](https://cdn.discordapp.com/attachments/1025213238763327683/1181584012137988178/image.png?ex=658196dd&is=656f21dd&hm=e6e958c496c48efe2271dc65025ed4780403b551d6e9ccd2c7a7eda5c2f908e3&)
+![image](https://github.com/alweismiau/Jarkom-Modul-4-IT19-2023/assets/112788819/21fda5ca-ad37-4167-8d19-9483439c5602)
 
 # VLSM (Variable Length Subnet Masking)
 ## Pengelompokan dari VSLM
@@ -549,3 +549,23 @@ route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.73.24.141
 ![](https://cdn.discordapp.com/attachments/1025213238763327683/1181588983621369916/WhatsApp_Image_2023-12-04_at_18.26.44_e75a1f9b.jpg?ex=65819b7e&is=656f267e&hm=347a3e440fa5cf3af250a5951a681732bc4ba7dfd6d6240f80d6466517506d2d&)
 
 # CIDR (Classless Inter Domain Routing)
+
+## Pengelompokan dari CIDR
+![image](https://github.com/alweismiau/Jarkom-Modul-4-IT19-2023/assets/112788819/0544e13b-3881-4f7f-97fa-d0729b9bcac9)
+
+## Tree
+![image](https://github.com/alweismiau/Jarkom-Modul-4-IT19-2023/assets/112788819/d3b929d6-b356-4aee-a2ca-3e10fa856528)
+
+
+## Penggabungan Subnet
+
+Berikut adalah proses penggabungan subnet bertahap yang dilakukan. Adapun untuk tingkatan yang digunakan adalah dari abjad A-J
+
+![image](https://github.com/alweismiau/Jarkom-Modul-4-IT19-2023/assets/112788819/9e9569ad-c723-4afa-b5d9-a7aab9a4f01d)
+
+![image](https://github.com/alweismiau/Jarkom-Modul-4-IT19-2023/assets/112788819/eb638c58-ed58-4630-962f-89f5ff8e5608)
+
+
+# Kendala
+
+Tidak ada kendala yang dialami selama pengerjaan
